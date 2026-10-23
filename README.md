@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phophon-Insee
 - 👀 I’m interested in Machine Learning, Computer Vision, Web Programimg, Mobile Programing
-- 🌱 I’m currently learning Fontend of Web Programing
-- 💞️ I’m looking to collaborate on <nothing>
+- 🌱 I’m currently learning loop engineering
+- 💞️ I’m looking to collaborate on somewhere
 - 📫 How to reach me https://www.linkedin.com/in/phophon-insee-a9358816a
 
 <!---
